@@ -1,4 +1,3 @@
-![logo]()
 <h1 align="center">Hi 👋, I'm Yagnik Akbari</h1>
 <h3 align="center">A passionate Learner and Enthusiast.</h3>
 <img
