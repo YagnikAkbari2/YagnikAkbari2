@@ -32,6 +32,22 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn-icons-png.flaticon.com/128/732/732190.png"
@@ -47,15 +63,7 @@
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
+  </a>  
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -67,16 +75,27 @@
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  </a> 
+  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"
-      alt="python"
+      src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png"
+      alt="Bootstrap"
       width="40"
       height="40"
     />
   </a>
+  <a href="https://react-bootstrap.netlify.app/" target="_blank" rel="noreferrer">
+    <img
+      src="https://react-bootstrap.netlify.app/img/logo.svg"
+      alt="React-Bootstrap"
+      width="40"
+      height="40"
+    />
+  </a>
+  
 </p>
+
+
 
 <p>
   <img
