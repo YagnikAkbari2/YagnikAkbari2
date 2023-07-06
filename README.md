@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/yagnik akbari" target="blank"
+  <a href="https://www.linkedin.com/in/yagnik-akbari-1574a9201/" target="blank"
     ><img
       align="center"
       src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"
