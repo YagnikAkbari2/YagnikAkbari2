@@ -84,10 +84,27 @@
       height="40"
     />
   </a>
+ 
   <a href="https://react-bootstrap.netlify.app/" target="_blank" rel="noreferrer">
     <img
       src="https://react-bootstrap.netlify.app/img/logo.svg"
       alt="React-Bootstrap"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png"
+      alt="Tailwind Css"
+      width="40"
+      height="30"
+    />
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://t3.ftcdn.net/jpg/05/83/61/64/240_F_583616402_eeFIruMMzI8pFF4pkAmDjywdMWu9TQsT.jpg"
+      alt="React"
       width="40"
       height="40"
     />
