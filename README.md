@@ -1,140 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yagnik Akbari</h1>
 <h3 align="center">A passionate Learner and Enthusiast.</h3>
-<img
-  src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
-  alt="Coding"
-  width="400"
-   align="right"
-/>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=yagnikakbari2&label=Profile%20views&color=0e75b6&style=flat"
-    alt="yagnikakbari2"
-  />
-</p>
-
-- 🌱 I’m currently learning **React.js , Node.js and DSA** 
-- 📫 How to reach me
-**yagnik58ppsv@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/yagnik-akbari-1574a9201/" target="blank"
-    ><img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"
-      alt="yagnik akbari"
-      height="40"
-      width="40"
-  /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn-icons-png.flaticon.com/128/732/732190.png"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn-icons-png.flaticon.com/128/1216/1216733.png"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>  
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a> 
-  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png"
-      alt="Bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
- 
-  <a href="https://react-bootstrap.netlify.app/" target="_blank" rel="noreferrer">
-    <img
-      src="https://react-bootstrap.netlify.app/img/logo.svg"
-      alt="React-Bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png"
-      alt="Tailwind Css"
-      width="40"
-      height="30"
-    />
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://t3.ftcdn.net/jpg/05/83/61/64/240_F_583616402_eeFIruMMzI8pFF4pkAmDjywdMWu9TQsT.jpg"
-      alt="React"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-</p>
+## 💫 About Me:
+ - 🌱 I’m currently learning React.js , Node.js and DSA
+ - 📫 How to reach me **yagnik58ppsv@gmail.com**
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yagnik-akbari-1574a9201/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YagnikAkbari1) 
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=yagnikakbari2&show_icons=true&locale=en&layout=compact"
-    alt="yagnikakbari2"
-  />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=yagnikakbari2&show_icons=true&locale=en"
-    alt="yagnikakbari2"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=yagnikakbari2&"
-    alt="yagnikakbari2"
-  />
-</p>
-
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YagnikAkbari2&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YagnikAkbari2&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YagnikAkbari2&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
